@@ -1,0 +1,8 @@
+name: AzurkaCore
+main: fr.brangers.azurka.AzurkaCoreMain
+version: 1.0
+api-version: 1.16
+commands:
+  cards:
+    description: Ouvre l'inventaire des cartes
+    usage: /cards
