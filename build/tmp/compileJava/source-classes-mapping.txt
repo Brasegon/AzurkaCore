@@ -2,17 +2,19 @@ fr/brangers/azurka/items/cards/Card.java
  fr.brangers.azurka.items.cards.Card
 fr/brangers/azurka/register/init/Items.java
  fr.brangers.azurka.register.init.Items
-fr/brangers/azurka/register/init/inventory/Inventories.java
- fr.brangers.azurka.register.init.inventory.Inventories
-fr/brangers/azurka/register/Register.java
- fr.brangers.azurka.register.Register
 fr/brangers/azurka/files/CardsData.java
  fr.brangers.azurka.files.CardsData
-fr/brangers/azurka/AzurkaCoreMain.java
- fr.brangers.azurka.AzurkaCoreMain
+fr/brangers/azurka/register/Register.java
+ fr.brangers.azurka.register.Register
 fr/brangers/azurka/event/InventoryEvent.java
  fr.brangers.azurka.event.InventoryEvent
+fr/brangers/azurka/AzurkaCoreMain.java
+ fr.brangers.azurka.AzurkaCoreMain
+fr/brangers/azurka/menu/Menu.java
+ fr.brangers.azurka.menu.Menu
+fr/brangers/azurka/menu/PaginatedMenu.java
+ fr.brangers.azurka.menu.PaginatedMenu
 fr/brangers/azurka/command/CommandCards.java
  fr.brangers.azurka.command.CommandCards
-fr/brangers/azurka/inventory/CardsInventory.java
- fr.brangers.azurka.inventory.CardsInventory
+fr/brangers/azurka/menu/MenuCards.java
+ fr.brangers.azurka.menu.MenuCards
