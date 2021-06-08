@@ -9,7 +9,6 @@ import java.util.ArrayList;
 
 public class Card extends ItemStack {
     public ItemMeta meta;
-
     public Card(Material material, String name, ArrayList<String> lores, int modelData) {
         super(material);
         this.meta = this.getItemMeta();

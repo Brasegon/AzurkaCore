@@ -16,7 +16,7 @@ public class CommandCards implements CommandExecutor {
             return true;
         }
         Player player = (Player) sender;
-        new MenuCards(player).open();
+        new MenuCards(player, 0).open();
         return false;
     }
 }
